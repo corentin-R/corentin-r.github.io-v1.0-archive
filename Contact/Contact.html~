@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Corentin Raoult</title>
+	<link rel="stylesheet" href="../styles.css" type="text/css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="../print.css" media="print" />
+	<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body>
+<div id="wrapper"><!-- #wrapper -->
+
+	<nav><!-- top nav -->
+		<div class="menu">
+			<ul>
+				<li><a href="../index.html">Accueil</a></li>
+				<li><a href="../Informations_Personnelles/Informations_Personnelles.html">Informations Personnelles</a></li>
+				<li><a href="../Projets/Projets.html">Projets</a></li>
+				<li><a href="Contact.html">Me contacter</a></li>
+			</ul>
+		</div>
+	</nav><!-- end of top nav -->
+	
+	<header><!-- header -->
+		<h1>Contact et liens</h1>
+		<img class="background" src="../images/background_contact.png" alt="background"/img>
+	</header><!-- end of header -->
+	
+	<section id="main"><!-- #main content area -->
+			<section id="content"><!-- #content -->
+				<article>
+					<p>	
+					<section class="texte" > 
+						<br/> mail: corentinraoult@laposte.net <br/><br/><br/>
+						<br/>Où me retrouver sur le net:<br/><br/>
+						<a class="lien" href="http://fr.viadeo.com/fr/profile/corentin.raoult1"><img class="logo" src="../images/viadeo.png" title="profil viadeo" alt="viadeo" /></a>	
+						<a class="lien" href="http://www.doyoubuzz.com/corentin-raoult/"><img class="logo" src="../images/doyoubuzz.png" title="profil doyoubuzz" alt="doyoubuzz" /></a>					
+						<a class="lien" href="https://twitter.com/coco_raoult"><img class="logo" src="../images/twitter.png" title="compte twitter" alt="twitter" /></a>
+						<a class="lien" href="https://github.com/corentin-R"><img class="logo" src="../images/github-logo.png" title="compte twitter" alt="twitter" /></a>
+
+						<br/><br/><br/>						
+					</section>	
+					</p>
+				</article>
+			</section><!-- end of #content -->
+	</section><!-- end of #main content -->
+	
+		<footer>
+		<section id="footer-area">
+
+			<br/>
+			<p> &copy; 2013 </br/>Made by Corentin Raoult - inspired by <a href="http://freehtml5templates.com/downloads/free/officecomplex/">freehtml5templates.com</a></p>
+
+		</section><!-- end of footer-area -->
+		
+		</footer>
+	
+</div><!-- #wrapper -->
+<!-- Free template created by http://freehtml5templates.com -->
+</body>
+</html>
