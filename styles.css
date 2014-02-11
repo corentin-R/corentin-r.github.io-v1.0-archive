@@ -379,3 +379,15 @@ td{
  	margin-left: 40px;
 	margin-right: 40px;
  }
+
+ .img_b1
+ {
+	width: 45%;
+	height: 45%;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	 display:inline;
+ }
+ 
