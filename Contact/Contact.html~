@@ -31,12 +31,12 @@
 				<article>
 					<p>	
 					<section class="texte" > 
-						<br/> mail: corentinraoult@laposte.net <br/><br/><br/>
+						<br/><h2> mail: corentinraoult@laposte.net</h2> <br/><br/><br/>
 						<br/>Où me retrouver sur le net:<br/><br/>
 						<a class="lien" href="http://fr.viadeo.com/fr/profile/corentin.raoult1"><img class="logo" src="../images/viadeo.png" title="profil viadeo" alt="viadeo" /></a>	
 						<a class="lien" href="http://www.doyoubuzz.com/corentin-raoult/"><img class="logo" src="../images/doyoubuzz.png" title="profil doyoubuzz" alt="doyoubuzz" /></a>					
 						<a class="lien" href="https://twitter.com/coco_raoult"><img class="logo" src="../images/twitter.png" title="compte twitter" alt="twitter" /></a>
-						<a class="lien" href="https://github.com/corentin-R"><img class="logo" src="../images/github-logo.png" title="compte twitter" alt="twitter" /></a>
+						<a class="lien" href="https://github.com/corentin-R"><img class="logo" src="../images/github-logo.png" title="compte github" alt="github" /></a>
 
 						<br/><br/><br/>						
 					</section>	

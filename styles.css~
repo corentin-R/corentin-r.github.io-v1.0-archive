@@ -328,12 +328,6 @@ td{
 	width : 190px;
 	height: 190px;
  }
-
-  .img_proj2
- {
-	width : 150px;
-	height: 150px;
- }
  
    .logo
  {
@@ -373,21 +367,3 @@ td{
 	height: 65%;
 	 display:inline;
  }
- 
- .img_su
- {
- 	margin-left: 40px;
-	margin-right: 40px;
- }
-
- .img_b1
- {
-	width: 45%;
-	height: 45%;
-	margin-left: 20px;
-	margin-right: 20px;
-	margin-bottom: 20px;
-	margin-top: 20px;
-	display:inline;
- }
- 

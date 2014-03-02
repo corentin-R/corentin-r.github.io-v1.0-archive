@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Corentin Raoult</title>
+	<link rel="stylesheet" href="../styles.css" type="text/css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="../print.css" media="print" />
+	<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body>
+<div id="wrapper"><!-- #wrapper -->
+
+	<nav><!-- top nav -->
+		<div class="menu">
+			<ul>
+				<li><a href="../index.html">Accueil</a></li>
+				<li><a href="Informations_Personnelles.html">Informations Personnelles</a></li>
+				<li><a href="../Projets/Projets.html">Projets</a></li>
+				<li><a href="../Contact/Contact.html">Me contacter</a></li>
+			</ul>
+		</div>
+	</nav><!-- end of top nav -->
+	
+	<header><!-- header -->
+		<h1>Informations Personnelles</h1>
+		<img class="background" src="../images/background_info.png" alt="background"/img>
+	</header><!-- end of header -->
+	
+	<section id="main"><!-- #main content area -->
+			<section id="content"><!-- #content -->
+				<article>
+						<h2>Formation</h2>
+						
+						<h3>Etudes Supérieures</h3>
+						<a class="logo_isen" href="http://isen.fr/"><img class="isen" src="../images/ISEN.jpg" alt="ISEN" /><br/><br/></a>
+						<p>2012-2014:<br/>
+						Première et deuxième année du cycle ingénieur (option systèmes embarqués) à l'ISEN de Brest
+						Statistiques, traitement du signal, codage canal, informatique, réseaux...<br/><br/>
+						
+						2010-2012:<br/>
+						Première et deuxième année de prépa intégrée MPSI (Mathématiques, Physique et Sciences de l'ingénieur) à l'ISEN de Brest.<br/><br/>
+						(Pour plus d'informations concernant mes études, cliquez <a href="http://www.isen.fr/brest-rennes/page-formations/majeure-technologies-numeriques-et-leurs-applications/">ici</a>)</p> 
+						
+						<h3>Lycée</h3>
+						<p>2009-2010:<br/>
+						Baccalauréat S Mention Assez Bien (spécialité physique-chimie) à Laval (53)</p> 
+						<br/><br/>
+					<h2>Compétences</h2>
+					<table border="1" bordercolor="#00000" style="background-color:#FFFFFF" width="100%" cellpadding="0" cellspacing="0">
+					<class=titre_table>
+					<tr>
+						<td class="titre_tableau">Langages de programmation</td>
+						<td class="titre_tableau">Electronique</td>
+						<td class="titre_tableau">Technologies Web</td>
+						<td class="titre_tableau">Langues</td>
+					</tr>
+					</th>
+					<tr>
+						<td>C<br/> C++ <br/> Java<br/> Assembleur </td>
+						<td>VHDL<br/>Protel DXP</td>
+						<td>HTML<br/> CSS <br/> SQL </td>
+						<td>Anglais <br/> Français </td>
+					</tr>
+					</table>
+
+							
+			
+	
+					<br/><br/><br/>
+				
+				
+				<h2>Expériences professionnelles et associatives</h2>
+				
+				<h3>Eté 2013: opérateur machine, usine Paulstra
+					<img class="img_info" src="../images/logo_paulstra.png" title="logo Paulstra" alt="logo Paulstra"/img><br/></h3>
+					<p>Stage ouvrier d'une durée d'un mois au sein du service prototye de l'usine Paulstra de Segré (49).<br/>
+					Ce site s'occupait de la production de joints en cahoutchouc. Lors de ce stage j'ai pu passer sur différentes machines de productions et ainsi apprendre en quoi consitait le métier d'opérateur.</p> <br/>
+					
+				<h3>Eté 2013: Woofing en Irlande
+					<img class="img_info" src="../images/logo_woofingIRL.png" title="logo woofing" alt="logo woofing"/img><br/></h3>
+					<p>Durant notre scolarité au sein de l'Isen il nous est demandé de passer un mois dans un pays étranger.
+					<br/>C'est dans ce contexte que j'ai passé mon mois d'août en Irlande en tant que woofer. Le travail consistait à reconstruire des murs en pierre sèche, épierrer des champs, déblayer des souches, s'occupper du potager, tailler des haies et des arbustes...
+					Nous devions aussi participer aux tâches ménagères et à la préparation des repas.</p> <br/>
+					
+				<h3>Septembre 2012 - aujourd'hui: membre et trésorier du Club Elec
+				<img class="img_info" src="../images/logo club élec.jpg" title="logo Club Elec" alt="logo Club Elec"/img></h3>
+						<br/>
+						<p>Voici quelques tâches réalisées au sein de cette association:
+						<ul>
+							<li>réparations électroniques et informatiques</li>
+							<li>création de projets pour les portes ouvertes</li>
+							<li>mise en place de cours complémentaire à la formation de l'Isen</li>
+							<li>mise en place d'événements tels que les LANs</li>
+							<li>assemblage d'une imprimante 3D <a href="http://www.reprappro.com/products/mono-mendel/">RepRapPro</a> </li>
+						</ul>
+						<br/>
+						<a href="https://www.facebook.com/ClubElecIsenBrest">page facebook du club</a><br/><br/></p>
+						
+				<h3>Eté 2011 et 2012: Animateur au centre de loisirs de Cossé-Le-Vivien
+					<img class="img_info" src="../images/logo familles-rurales.png" title="logo familles-rurales" alt="logo familles-rurales"/img></h3>
+					<p>Encadrement et prise en charge de groupes d'enfants âgés de 3 à 13 ans. Mise en place de grands jeux inter-centres, de veillés..</p> <br/>
+					
+				<h3>Janvier 2009 - Juin 2009: Correspondant local de Presse
+						<img class="img_info" src="../images/logo ouest france.png" title="logo ouest france" alt="logo ouest france"/img><br/></h3>
+						<p>A l'occasion du projet "initiatives solidaires" le queotidien Ouest-France proposait à des jeunes d'écrire des articles à la façon d'un pigiste.
+						C'est ainsi que j'ai rédigé quelques articles pour la rédaction de Laval pendant six mois.</p> <br/>
+						
+				<h2>Loisirs</h2>
+					<h3>Athlétisme</h3>
+						<p>D'abord en UGSEL avec le collège et le lycée puis en tant que licencié au club de l'AGCV (depuis 5 ans).<br/><ul>
+							
+						<li><a href="http://bases.athle.com/asp.net/athletes.aspx?base=bilans&seq=4851475245544257475245544653">bilans FFA</a><br/></li>
+						<li><a href="http://www.agcv-athle.com/">site de l'AGCV</a><br/></li>
+</ul>
+						</p>		
+					<h3>Bricolage</h3>
+						<p>Création de petits projets électronique, informatiques ...</p>	<br/>
+					<h3>Autres sports</h3>
+						<p>Natation et vélo</p>	<br/>
+				<p></p>
+						
+				</article>
+			</section><!-- end of #content -->
+	</section><!-- end of #main content -->
+	
+		<footer>
+		<section id="footer-area">
+
+			<br/>
+			<p> &copy; 2013 </br/>Made by Corentin Raoult - inspired by <a href="http://freehtml5templates.com/downloads/free/officecomplex/">freehtml5templates.com</a></p>
+
+		</section><!-- end of footer-area -->
+		
+		
+	</footer>
+	
+</div><!-- #wrapper -->
+
+</body>
+</html>

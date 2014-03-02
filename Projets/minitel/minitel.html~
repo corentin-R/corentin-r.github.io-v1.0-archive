@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="fr">
+<head>
+	<meta charset="utf-8" />
+	<title>Corentin Raoult</title>
+	<link rel="stylesheet" href="../../styles.css" type="text/css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="../../print.css" media="print" />
+	<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body>
+
+
+<div id="wrapper"><!-- #wrapper -->
+
+	<nav><!-- top nav -->
+		<div class="menu">
+			<ul>
+				<li><a href="../../index.html">Accueil</a></li>
+				<li><a href="../../Informations_Personnelles/Informations_Personnelles.html">Informations Personnelles</a></li>
+				<li><a href="../Projets.html">Projets</a></li>
+				<li><a href="../../Contact/Contact.html">Me contacter</a></li>
+			</ul>
+		</div>
+	</nav><!-- end of top nav -->
+	
+	<header><!-- header -->
+		<h1>Minitel</h1>
+		<img class="background" src="../../images/background_minitel.png" alt="background"/img>
+	</header><!-- end of header -->
+	
+	<section id="main"><!-- #main content area -->
+			<section id="content"><!-- #content -->
+				<article>
+					<p>Ce projet est un projet personnel, il s'agit de la réutilisation d'un minitel en tant que moniteur.<br/>					
+					Pour le moment il ne peut afficher une image uniquement avec les composantes RGB et une synchro verticale.<br/>	
+					Une prise péritel a donc été utilisé pour le relier à la source.<br/><br/>					
+					Ci-dessous un premier exemple d'utilisation evec un décodeur.<br/></p>				
+					<img  class="img" src="../../images/PhotoMinitel.jpg" title="minitel + décodeur freebox" alt="minitel+freebox" /><br/><br/>
+					<p>schéma du brochage sur le composant gérant l'affichage sur le minitel (<a href="../../images/EF9345.pdf">documentation de l'EF9345</a>)<br/><p>
+					<img  class="img" src="../../images/minitelRVB.gif" title="schéma brochage" alt="schéma brochage" /><br/><br/>
+					<p>liens d'autres projets similaires:<p>
+					<ul>
+						<li><a href="http://www.cfp-radio.com/realisations/rea48/minitel-01.html">Recycler un ancien Minitel par cfp-radio</a></li>
+						<li><a href="http://virtualabs.fr/Super-Minitel-Entertainment-System">Super Minitel Entertainment System par Virtualabs.fr</a></li>
+						<li><a href="http://jla.1313-blog.overblog.com/recyclage-d-un-minitel-9-en-moniteur-b/w">Recyclage d'un MINITEL 9 en moniteur B/W par jla.1313</a></li>
+					<ul>
+					<br/>
+					<p>A noter que ces projets utilisent une autre méthode qui consiste à supprimer la carte modem du minitel et à la remplacer
+					par un montage prenant une entrée vidéo composite et comprenant un séparateur de synchro (un LM1881).
+					<br/>					
+					<br/>Disclamer: <br/>
+					Attenton le minitel contient un bloc THT (Très Haute Tension). Celui-ci délivre jusqu'à plusieurs dizaines de Kilovolts en fonctionnement. De plus il reste chargé longtemps après la mise hors tension du minitel.
+					Ne pas s'amuser à démonter un minitel ou tout autre écran cathodique sans avoir pris des précautions et sans avoir un minimum de connaissances sur les risques encourus.
+					<br/><br/><p>
+				</article>
+			</section><!-- end of #content -->
+	</section><!-- end of #main content -->
+	
+		<footer>
+		<section id="footer-area">
+
+			<br/>
+			<p> &copy; 2013 </br/>Made by Corentin Raoult - inspired by <a href="http://freehtml5templates.com/downloads/free/officecomplex/">freehtml5templates.com</a></p>
+		
+		</section><!-- end of footer-area -->
+			
+	</footer>
+	
+</div><!-- #wrapper -->
+
+</body>
+</html>
