@@ -18,8 +18,10 @@ display: block;
 }
 
 body {
+
 line-height: 1;
-background: #999;
+/*background: #999;*/
+background-image:url(images/background-tetris.png);
 font-family: 'policeRetro', Arial, serif;
 /*font-family: Verdana, Arial, Helvetica, sans-serif;*/
 color: #666;
@@ -34,6 +36,7 @@ width: 940px;
 margin: 0 auto;
 margin-top: 10px;
 margin-bottom: 10px;
+border: 1px solid white;
 }
 
 nav {
@@ -55,6 +58,7 @@ width: 940px;
 margin: 0 auto;
 background: #FFF;
 overflow: hidden;
+
 }
 
 #content {
@@ -87,7 +91,7 @@ text-decoration: underline;
 }
 
 p {
-/*border: 1px solid black;*/
+
 margin-bottom: 18px;
 }
 
